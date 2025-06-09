@@ -42,8 +42,8 @@ With a strong background in **C#, WPF, ASP.NET, Web API**, and **SQL**, I build 
 
 ## 📬 Let's Connect
 
-📧 Email: [danh.ngkhac@gmail.com](mailto:danh.ngkhac@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/NguyenKhacDanh](https://www.linkedin.com/in/NguyenKhacDanh)
+📧 Email: [nguyenkhacdanh.tdc2019@gmail.com](mailto:nguyenkhacdanh.tdc2019@gmail.com)  
+💼 Facebook: [(https://www.facebook.com/nguyenkhacdanh.1010)]((https://www.facebook.com/nguyenkhacdanh.1010))
 
 ---
 
