@@ -14,13 +14,14 @@ With a strong background in **C#, WPF, ASP.NET, Web API**, and **SQL**, I build 
 - 🧠 Entity Framework, ADO.NET
 
 ### 🗂️ Frontend
-- 🖌 HTML5, CSS3, JavaScript
-- 🎨 Bootstrap, DevExpress, Telerik
+- 🖌 HTML5, CSS3, JavaScript, VueJS, ReactJS, Flutter, TailwindCss...
+- 🎨 Bootstrap, DevExpress, Telerik...
 
 ### 🛢️ Databases
 - 💽 SQL Server
 - 🐬 MySQL
-
+- 🐘 PostgreSQL
+- 🍃 MongoDB
 ### 🔧 Tools & Platforms
 - 🧰 Visual Studio, VS Code
 - 📁 Git, GitHub, GitLab
