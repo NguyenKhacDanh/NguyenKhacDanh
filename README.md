@@ -73,8 +73,9 @@ With a strong background in **C#, WPF, ASP.NET, Web API**, and **SQL Server**, I
 ---
 
 ## 📊 GitHub Overview
-![Danh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenKhacDanh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenKhacDanh&layout=compact&theme=radical)
+![Danh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenKhacDanh&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenKhacDanh&layout=compact&theme=radical&count_private=true&hide=html,css)
+
 
 ---
 
