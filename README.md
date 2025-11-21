@@ -73,9 +73,6 @@ With a strong background in **C#, WPF, ASP.NET, Web API**, and **SQL Server**, I
 ---
 
 ## 📊 GitHub Overview
-
-> (Optional – replace `NguyenKhacDanh` with your actual GitHub username if needed)
-
 ![Danh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenKhacDanh&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenKhacDanh&layout=compact&theme=radical)
 
